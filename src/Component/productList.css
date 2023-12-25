@@ -1,0 +1,37 @@
+
+*
+{
+    box-sizing: border-box;
+}
+
+
+.list img
+{
+    width: 50%;
+}
+
+.list .price
+{
+    margin-left: 2px;
+}
+
+.list .pname
+{
+    text-align: left;
+}
+
+.list .pdetails
+
+{
+    text-align: left;
+    margin-right: 20px;
+}
+
+.list button
+{
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    height: 32px;
+    width: 130px;
+}

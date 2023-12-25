@@ -1,0 +1,56 @@
+.pheading
+{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.pitems
+{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.pitems img
+{
+   width: 20%;
+}
+.pitems .details
+{
+   width: 62%;
+   height: 100%;
+}
+
+.pitems p
+{
+ height: 2px;
+ color: whitesmoke;
+}
+
+.productdetails
+{
+    margin-top:0px;
+    background-color: rgba(0, 0, 0, 0.908);
+}
+
+
+.addorremove
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.addorremove input
+{
+    width: 20px;
+}
+
+.addorremove  button {
+
+    width: 20px;
+    background-color: black;
+    color: white;
+}

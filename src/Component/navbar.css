@@ -1,0 +1,16 @@
+.navbar
+{
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.links  a
+{
+    margin: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: large;
+}
